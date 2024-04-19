@@ -1,10 +1,11 @@
-![Logo](images/icon.png)
-
-LeetCode Blur
-=============
-
-Description
------------
+<div align="center">
+    <img src="images/icon.png" alt="Logo" width="100">
+    <h1>LeetCode Blur</h1>
+      <video height="240" controls>
+    <source src="images/showcase.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 LeetCode Blur is a Chrome extension designed to enhance your problem-solving experience on LeetCode by blurring previously written code solutions. This prevents accidental spoilers, helping you to approach problems with a fresh perspective every time you visit. Ideal for those who want to practice problems multiple times or for educational settings where spoilers can hinder learning.
 
