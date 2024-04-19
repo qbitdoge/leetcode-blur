@@ -1,3 +1,5 @@
+![Logo](images/icon.png)
+
 LeetCode Blur
 =============
 
