@@ -3,7 +3,7 @@
   "name": "LeetCode Blur",
   "version": "1.0",
   "description": "Apply a fancy CSS blur effect to the LeetCode coding pad",
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["storage"],
   "content_scripts": [
     {
       "css": ["content/invisible-ink.css"],
