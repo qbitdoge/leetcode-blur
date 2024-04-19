@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "LeetCode Blur",
+  "version": "1.0",
+  "description": "Apply a fancy CSS blur effect to the LeetCode coding pad",
+  "permissions": ["activeTab", "storage"],
+  "content_scripts": [
+    {
+      "css": ["content/invisible-ink.css"],
+      "matches": ["*://leetcode.com/problems/*"],
+      "js": ["content/jquery-3.7.1.min.js", "content/click-event-listener.js"],
+      "all_frames": false
+    }
+  ],
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

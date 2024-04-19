@@ -1,0 +1,10 @@
+.invisible-ink {
+    filter: blur(2px);
+    transition: filter 0.5s ease;
+    cursor: pointer;
+    transition: opacity 0.5s, visibility 0s linear 0.5s;
+  }
+
+  .invisible-ink:hover {
+    filter: blur(0px);
+  }
