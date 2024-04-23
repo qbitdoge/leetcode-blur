@@ -22,7 +22,7 @@ Installation
 
 (Note: Include the link to your Chrome Web Store listing when available)
 
-1.  Visit the [LeetCode Blur page on the Chrome Web Store](#).
+1.  Visit the [LeetCode Blur page on the Chrome Web Store](#https://chromewebstore.google.com/detail/leetcode-blur/lhjmphlmpfnggkidbdhaaabnlpgobglg).
 2.  Click 'Add to Chrome' to install the extension.
 
 ### Manual Installation (Developer Mode)
